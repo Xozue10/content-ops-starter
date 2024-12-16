@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Hola
+      label: Instituto Tecnológico de los Mochis
       color: text-primary
       type: Badge
     elementId: ''
